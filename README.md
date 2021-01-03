@@ -8,7 +8,7 @@ Originally published on [dotnetpowered.com](http://web.archive.org/web/201303280
 
 [**A#**](http://web.archive.org/web/20070124121617/http://www.usafa.af.mil/df/dfcs/bios/mcc_html/a_sharp.cfm)   Port of Ada to .NET  
 Dr. Martin C. Carlisle
-
+(No longer active - Wayback Machine Link Provided)
 
 ## APL
 
@@ -33,8 +33,9 @@ bjarke
 [**Visual Basic.NET**](http:/msdn.microsoft.com/vbasic/)     
 Microsoft
 
-[**mbas**](http:/www.go-mono.com/mbas.html)     
+[**mbas**](http://web.archive.org/web/20070213005600/http://www.mono-project.com/VisualBasic.NET_support)     
 Novell (Mono Project)
+(No longer active - Wayback Machine Link Provided)
 
 [**bmcs**](http:/kjambunathan.blogspot.com/2005/01/hello-vbnet-world.html)     
 Jambunathan
@@ -56,7 +57,7 @@ Simon Howard
 
 ## Boo (Python inspired syntax)
 
-[**boo**](http:/boo.sourceforge.net/)     
+[**boo**](http://boo-language.github.io/)     
 Rodrigo B. de Oliveira &Georges; Benatti
 
 ## C
@@ -81,12 +82,11 @@ DotGNU Portable.NET
 
 C# Variants
 
-[**CSI**](http:/www.codeproject.com/csharp/csi.asp)   A Simple C# Interpreter  
+[**CSI**](https://www.codeproject.com/Articles/10212/CSI-A-Simple-C-Interpreter)   A Simple C# Interpreter  
 Steve Donovan
 
 [**Cω**](http:/research.microsoft.com/Comega/)   Comega  
 MS Research
-
 
 [**eXtensible C#**](http:/www.resolvecorp.com/)   Language Extension  
 ResolveCorp
@@ -97,8 +97,9 @@ MS Research
 [**Polymorphic C#**](http:/research.microsoft.com/~nick/polyphony/)   Language has merged with Comega  
 MS Research
 
-[**MC#**](http:/u-pereslavl.botik.ru/~vadim/MCSharp/)   Multiprocessor C#  
+[**MC#**](http://web.archive.org/web/20070213005600/http:/u-pereslavl.botik.ru/~vadim/MCSharp/)   Multiprocessor C#  
 Yury P. Serdyuk, Vadim B.Guzev
+(No longer active - Wayback Machine Link Provided)
 
 [**Metaphor**](http:/sky.fit.qut.edu.au/~neverov/metaphor/)     
 Gregory Neverov @ Queensland University of Technology
@@ -285,6 +286,8 @@ University of Patras
 [**Lua.NET**](http:/www.lua.inf.puc-rio.br/luanet/)   Integrating Lua with Rotor  
 PUC-RIO
 
+[**NLua**](http://nlua.org) is the bind between Lua world and the .NET world.
+NLua contributors on GitHub
 
 ## Mercury
 
@@ -308,7 +311,7 @@ Queensland University of Technology
 
 ## Nemerle
 
-[**Nemerle**](http:/nemerle.org/)     
+[**Nemerle**](http:/nemerle.org/) - Hybrid (functional, object-oriented and imperative) programming language   
 The University of Wroclaw
 
 ## Oberon
