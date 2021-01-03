@@ -6,9 +6,8 @@ Originally published on [dotnetpowered.com](http://web.archive.org/web/201303280
 
 ## Ada
 
-[**A#**](http://web.archive.org/web/20070124121617/http://www.usafa.af.mil/df/dfcs/bios/mcc_html/a_sharp.cfm)   Port of Ada to .NET  
+[**A#**](https://asharp.martincarlisle.com)   Port of Ada to .NET  
 Dr. Martin C. Carlisle
-(No longer active - Wayback Machine Link Provided)
 
 ## APL
 
