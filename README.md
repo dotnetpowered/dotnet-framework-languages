@@ -468,7 +468,7 @@ Mark Hahn
 
 ## Synergy
 
-[**Synergy**](http:/www.synergex.com/oll_files/Synergex-2348.asp)     
+[**Synergy DBL for .NET**](https://www.synergex.com/language)     
 Synergex
 
 ## Tcl/Tk
