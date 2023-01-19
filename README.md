@@ -156,6 +156,9 @@ Micro Focus
 [**KICKS for .NET™**](http:/www.intensitysoftware.com/Products/KICKSforNET8482/tabid/59/Default.aspx)     
 Intensity Software
 
+[OtterKit](https://otterkit.com/)
+OtterKit Project
+
 ## Cobra
 
 [**The Cobra Programming Language**](http:/cobra-language.com/)     
